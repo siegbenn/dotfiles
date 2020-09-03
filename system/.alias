@@ -1,0 +1,8 @@
+# Apt
+alias upd='sudo apt update'
+alias upg='sudo apt upgrade'
+alias ins='sudo apt install'
+
+# Docker
+alias d='docker'
+
